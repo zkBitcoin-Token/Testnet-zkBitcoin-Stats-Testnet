@@ -25,7 +25,7 @@ const _ZERO_BN = new Eth.BN(0, 10);
 /* todo: move these into some kind of contract helper class */
 const _CONTRACT_NAME = "zkBitcoin";
 const _CONTRACT_SYMBOL = "zkBTC";
-const _CONTRACT_ADDRESS = "0x2Fe4abE63F6A2805D540F6da808527D21Bc9ea60"; // main zkBTC Contract
+const _CONTRACT_ADDRESS = "0x98599817C05ef6D7f75D88e181873EB26a839475"; // main zkBTC Contract
 
 
 const _CONTRACT_ADDRESS10 = "0x911a89de0430a5ce3699e57d508f8678afa1fffc"; //SUSHISWAP LP
